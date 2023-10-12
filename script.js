@@ -5,10 +5,10 @@ function hasKey(key) {
 	let slot =Object.keys(sampleObject);
 	for(let i=0 ; i<slot.length; i++)
 		{
-			if(slot[i]= key)
+			if(slot[i]== key)
 			{
 			 return true;
-				
+				 
 			}
 		} return false;
 	
