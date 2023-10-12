@@ -10,7 +10,7 @@ function hasKey(key) {
 			 return true;
 				
 			}
-		} retun false;
+		} return false;
 	
 }
 
